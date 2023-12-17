@@ -4,10 +4,16 @@
 }
 
 #second {
-    color: blue;
+    color: rgb(78, 78, 234);
     font-size: 36px;
 }
 
 #third {
     font-size: 26px;
+}
+
+#fourth {
+    background-color: #8be77b;
+    font-size: 24px;
+    font-weight: bold;
 }
