@@ -1,11 +1,13 @@
 .odd-number {
-
     background-color: #FFB6C1;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #second {
+    color: blue;
+    font-size: 36px;
+}
 
-color: blue;
-font-size: 36px;
+#third {
+    font-size: 26px;
 }
