@@ -1,0 +1,19 @@
+.element1 {
+
+    color: white;
+    background: black;
+
+}
+
+.element2 {
+
+    background: yellow;
+    color: black;
+}
+
+.element1, .element2 {
+
+font-size: 28px;
+font-family: Arial, Helvetica, sans-serif;
+cursor: pointer;
+}
