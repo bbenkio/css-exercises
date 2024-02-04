@@ -31,17 +31,17 @@ body {
   background: #e3f4ff;
   text-align: center;
   padding: 8px;
-  display: inline-block;
 }
 
-.button {
-  background: white;
+.big-button {
   border: 1px solid #eee;
   padding-left: 24px;
   padding-right: 24px;
-  padding-bottom: 8px;
   padding-top: 8px;
-
+  padding-bottom: 8px;
+  text-align: center;
+  background-color: white;
+  cursor: pointer;
 }
 
 .title, .content {
