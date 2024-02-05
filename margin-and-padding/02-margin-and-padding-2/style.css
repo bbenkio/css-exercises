@@ -33,15 +33,13 @@ body {
   padding: 8px;
 }
 
-.big-button {
+button {
+  display: block;
   border: 1px solid #eee;
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  text-align: center;
+  padding: 8px 24px;
   background-color: white;
   cursor: pointer;
+  margin: 0 auto;
 }
 
 .title, .content {
